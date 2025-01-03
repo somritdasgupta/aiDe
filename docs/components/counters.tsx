@@ -1,7 +1,7 @@
-import { useState } from 'react'
-import styles from './counters.module.css'
+import { useState } from "react"
+import styles from "./counters.module.css"
 
-function MyButton() {
+function MyButton(props: any): JSX.Element {
   const [count, setCount] = useState(0)
 
   function handleClick() {

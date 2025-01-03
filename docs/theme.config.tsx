@@ -16,7 +16,7 @@ const config = {
     }
   },
   footer: {
-    text: 'aiDe by Somrit Dasgupta',
+    text: 'aiDe⚡Somrit Dasgupta',
   },
 } as any;
 

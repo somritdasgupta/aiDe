@@ -1,6 +1,8 @@
-# Aide Documentation
+# aiDe⚡docs
 
-Welcome to the Aide documentation repository! This repository contains comprehensive guides and technical details about Aide, a powerful web software based on Ollama's local instance technology. Aide integrates advanced natural language processing (NLP) models for versatile applications, including real-time data scraping and fine-tuning.
+[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+
+Welcome to the aiDe documentation repository. This repository contains comprehensive guides and technical details about Aide, a powerful web software based on Ollama's local instance technology. Aide integrates advanced natural language processing (NLP) models for versatile applications, including real-time data scraping and fine-tuning.
 
 ## Overview
 
@@ -27,7 +29,3 @@ Contributions to the documentation are welcome! If you have suggestions or impro
 ## License
 
 Aide is licensed under the MIT License.
-
----
-
-Feel free to adjust or add any specific details as needed!
